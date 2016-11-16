@@ -18,7 +18,7 @@ More specifically, you'll find :
 - comments on possible improvement of the model to other tasks.
 
 About the scripts : 
-The Variational Inference that we used is a two step optimisation. 
+The Variational Inference that we used is a two step optimisation.  \n
 1-Given initial alpha and Beta we compute the best variational parameters phi and gamma.
 2-We optimise alpha and beta in order to maximise a specific log-likeyhood
 and so on.
