@@ -8,7 +8,7 @@ The range of its applicatio is very broad. Let's name a few :
 - topic discovery algorithm
 - clustering algorithm 
 
-The paper name LDA_description_implementation_test is a report written in 2013 by me and three other studends from ENSAE under the guidelines of researcher from the CREST.
+The paper name LDA_description_implementation_test.pdf is a report written in 2013 by me and three other studends from ENSAE under the guidelines of researcher from the CREST.
 The purpose was to demonstrate our understanding of the model Latent Dirichlet allocation, to implement it from scratch in R an to apply it to a given textual corpus. 
 More specifically, you'll find :
 - a formal description of the model LDA
