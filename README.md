@@ -18,9 +18,9 @@ More specifically, you'll find :
 - comments on possible improvement of the model to other tasks.
 
 About the scripts : 
-The Variational Inference that we used is a two step optimisation.  \n
-1-Given initial alpha and Beta we compute the best variational parameters phi and gamma.
-2-We optimise alpha and beta in order to maximise a specific log-likeyhood
+The Variational Inference that we used is a two steps optimisation : 
+- Given initial alpha and Beta we compute the best variational parameters phi and gamma.
+- We optimise alpha and beta in order to maximise a specific log-likeyhood
 and so on.
 Fonction_LDA.R is the main script that includes the all optimisation algorithm
 It recquires the script Fonction_Intermédiaire.R and LDA_loglikelyhood.R
