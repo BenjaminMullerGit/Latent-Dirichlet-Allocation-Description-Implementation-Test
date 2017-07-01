@@ -1,6 +1,5 @@
 # LDA
 Presenting a paper we wrote for a student project in 2013. 
-The project and the comments in the code are written in French but will soon be translated.
 
 Latent Dirichlet Allocation is a Generative Probabilistic model. It was first desribe by Jordan, A. Ng and, Blei in 2003.
 The range of its applicatio is very broad. Let's name a few :
