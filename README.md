@@ -1,14 +1,14 @@
 # LDA
 Presenting a paper we wrote for a student project in 2013. 
 
-Latent Dirichlet Allocation is a Generative Probabilistic model. It was first desribe by Jordan, A. Ng and, Blei in 2003.
-The range of its applicatio is very broad. Let's name a few :
-- Topic2Vec model by allowing the description of topics within documents and corpuses trhough vectors.
+Latent Dirichlet Allocation is a Generative Probabilistic model. It was first desribed by Jordan, A. Ng and, Blei in 2003.
+The scope of its applications is very broad. Let's name a few :
+- Topic2Vec model by allowing the description of topics within documents and corpuses through vectors.
 - topic discovery algorithm
 - clustering algorithm 
 
-The paper name LDA_description_implementation_test.pdf is a report written in 2013 by me and three other studends from ENSAE under the guidelines of researcher from the CREST.
-The purpose was to demonstrate our understanding of the model Latent Dirichlet allocation, to implement it from scratch in R an to apply it to a given textual corpus. 
+The paper name LDA_description_implementation_test.pdf is a report written in 2013 by three other studend and me from ENSAE under the guidelines of researchers from the CREST.
+The purpose was to demonstrate our understanding of the model Latent Dirichlet allocation, to implement it from scratch in R and to apply it to a given textual corpus. 
 More specifically, you'll find :
 - a formal description of the model LDA
 - a formal description of Variational Inference the training method that we used 
